@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".second_activity"
+    android:orientation="vertical"
+
+    android:background="@android:color/black">
+
+    <TextView
+        android:layout_marginTop="50dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:text="Implicit Intent. Intent is something which is sent from one activity to inbuilt android activity in android. When we work with implicit intents, we generally specify the action which we want to perform and optionally some data required for that action."
+        android:textSize="30dp"
+        android:background="@android:color/holo_orange_dark"
+        android:textColor="@android:color/white"
+        />
+    <TextView
+        android:layout_marginTop="100dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/re_text"
+        android:textSize="35sp"
+        android:layout_gravity="center"
+        android:text=""
+        android:background="@android:color/white"
+        android:textColor="@android:color/black"/>
+
+
+
+
+</LinearLayout>

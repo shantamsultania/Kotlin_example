@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="implicit_intent">Implicit intent</string>
+    <string name="explicit_intent">Explicit Intent</string>
+    <string name="there_are_two_types_of_intent_lets_have_a_look_at_them_just_enter_the_text_here_and_click_the_intent_you_want_try_out">There are two types of intent lets have a look at them just enter the text here and click the intent you want try out</string>
+    <string name="try_the_out_here">Try the out here....</string>
+    <string name="todo">TODO</string>
+</resources>
