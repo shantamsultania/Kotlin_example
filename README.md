@@ -28,14 +28,14 @@ Kotlin is designed to interoperate fully with Java, and the JVM version of its s
 
 Android is a mobile operating system based on a modified version of the Linux kernel and other open source software, designed primarily for touchscreen mobile devices such as smartphones and tablets.
 
-Android is developed by a consortium of developers known as the Open Handset Alliance,with the main contributor and commercial marketer being Google.
+Android is developed by a consortium of developers known as the Open Handset Alliance, with the main contributor and commercial marketer being Google.
 
 Initially developed by Android Inc., which Google bought in 2005, Android was unveiled in 2007, with the first commercial Android device launched in September 2008.
 The current stable version is Android 10, released on September 3, 2019. 
 
 ## Android Studio 
 
-Android Studio supports all the same programming languages of IntelliJ 
+Android Studio supports all the same programming languages of IntelliJ .
 e.g. Java, C++, and more with extensions, such as Go; and Android Studio 3.0 or later supports Kotlin and all Java 7 language features and
 a subset of Java 8 language features that vary by platform version.
 
